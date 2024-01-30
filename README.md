@@ -23,6 +23,6 @@ YouTube: https://youtu.be/Hh-4LkbwD30
 ## SKILLS
 ・Python / C++ / C#<br>
 ・TensorFlow / OpenCV <br>
-・Blender
+・Blender <br>
 ・Research / Analysis / Ability to learn new things<br>
 ・Project Management / Leadership<br>
