@@ -1,8 +1,14 @@
 ## SUMMARY
- Vision Machine learning researcher with 8+ years of experience in industrial software development. 
+CTO & General Manager of AI Development, Software Development / Master’s degree in Engineering Science, Graduate School of Osaka University
+
+Experience in hardware and software development at Keyence Corporation and in image recognition AI research and development at Mitsubishi Heavy Industries.
 
 ## WORK EXPERIENCE
-・Computer Vision Machine Learning Researcher at Mitsubishi Heavy Industries in Kobe, Japan (2021-Present)
+・CTO / AI Engineer / Software Engineer at GramEye Inc. in Osaka, Japan (2024-Present)
+
+・AI Engineer / Software Engineer at MinD in a Device in Japan (2024)
+
+・Computer Vision Machine Learning Researcher at Mitsubishi Heavy Industries in Kobe, Japan (2021-2024)
 
 ・Software Engineer at KEYENCE CORPORATION in Osaka, Japan (2016-2021)
 
