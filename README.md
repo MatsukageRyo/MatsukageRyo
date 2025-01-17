@@ -1,5 +1,5 @@
 ## SUMMARY
-CTO & General Manager of AI Development, Software Development / Master’s degree in Engineering Science, Graduate School of Osaka University
+CEO at Japan Industrial Tech Successions Inc. / CTO & General Manager of AI Development, Software Development / Master’s degree in Engineering Science, Graduate School of Osaka University
 
 Experience in hardware and software development at Keyence Corporation and in image recognition AI research and development at Mitsubishi Heavy Industries.
 
